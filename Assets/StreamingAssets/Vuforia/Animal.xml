@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zebra" size="0.250000 0.323431" />
+    <ImageTarget name="Yak" size="0.250000 0.323431" />
+    <ImageTarget name="Xenurine" size="0.250000 0.323431" />
+    <ImageTarget name="wolf" size="0.250000 0.323431" />
+    <ImageTarget name="vulture" size="0.250000 0.323431" />
+    <ImageTarget name="urchin" size="0.250000 0.323431" />
+    <ImageTarget name="tortoise" size="0.250000 0.323431" />
+    <ImageTarget name="snake" size="0.250000 0.323431" />
+    <ImageTarget name="rabbit" size="0.250000 0.323431" />
+    <ImageTarget name="quail" size="0.250000 0.323431" />
+    <ImageTarget name="pig" size="0.250000 0.323431" />
+    <ImageTarget name="ostrich" size="0.250000 0.323431" />
+    <ImageTarget name="nightingale" size="0.250000 0.323431" />
+    <ImageTarget name="mouse" size="0.250000 0.323431" />
+    <ImageTarget name="lion" size="0.250000 0.323431" />
+    <ImageTarget name="kangaroo" size="0.250000 0.323431" />
+    <ImageTarget name="13" size="0.250000 0.323431" />
+    <ImageTarget name="iguana" size="0.250000 0.323431" />
+    <ImageTarget name="horse" size="0.250000 0.323431" />
+    <ImageTarget name="goat" size="0.250000 0.323431" />
+    <ImageTarget name="elephant" size="0.250000 0.323431" />
+    <ImageTarget name="dog" size="0.250000 0.323431" />
+    <ImageTarget name="fish" size="0.250000 0.323431" />
+    <ImageTarget name="camel" size="0.250000 0.323431" />
+    <ImageTarget name="baboon" size="0.250000 0.323431" />
+    <ImageTarget name="antelope" size="1.000000 1.293725" />
+  </Tracking>
+</QCARConfig>
